@@ -10,7 +10,7 @@
       <div id='contenido'>
          <header>
             <hgroup>
-               <h1>Aprende a Bailar desde el corazon</h1>
+               <h1>ATodos estamos enfermos</h1>
             </hgroup>
 
             <nav>
